@@ -35,4 +35,4 @@ RUN set -x \
 USER ninjam
 EXPOSE 2049
 
-CMD ["ninjamsrv", "/app/ninjam_server.cfg"]
+CMD ["/bin/ninjamsrv", "/app/ninjam_server.cfg"]
