@@ -2,9 +2,9 @@ FROM alpine
 
 ARG APP_NAME="ninjamserver"
 ARG APP_DESCRIPTION="A lightweight Alpine NINJAM server container"
-ARG APP_VCS_REF="658f12f1cc37088036ab47e4a5f18b0e1c1f8e8e"
+ARG APP_VCS_REF
 ARG APP_VCS_URL="https://www-dev.cockos.com/ninjam/ninjam.git"
-ARG APP_VERSION="0.071"
+ARG APP_VERSION
 ARG BUILD_DATE
 ARG BUILD_VCS_REF
 ARG BUILD_VCS_URL="https://github.com/uZer/docker-ninjamserver"
