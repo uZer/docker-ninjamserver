@@ -1,6 +1,6 @@
 # Alpine NINJAM Server container
 
-![GitHub commits since tagged version](https://img.shields.io/github/commits-since/justinfrankel/ninjam/c7dec4de?label=commits%20on%20ninjam%20repo%20since%20last%20build&style=flat-square)
+![GitHub commits since tagged version](https://img.shields.io/github/commits-since/justinfrankel/ninjam/dd7cf64?label=commits%20on%20ninjam%20repo%20since%20last%20build&style=flat-square)
 
 ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/uzer/ninjamserver/latest?style=flat-square)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/uzer/ninjamserver/latest?style=flat-square)
