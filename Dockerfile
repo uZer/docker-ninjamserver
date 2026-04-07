@@ -3,7 +3,7 @@ FROM alpine
 ARG APP_NAME="ninjamserver"
 ARG APP_DESCRIPTION="A lightweight Alpine NINJAM server container"
 ARG APP_VCS_REF
-ARG APP_VCS_URL="https://www-dev.cockos.com/ninjam/ninjam.git"
+ARG APP_VCS_URL="https://github.com/justinfrankel/ninjam"
 ARG APP_VERSION
 ARG BUILD_DATE
 ARG BUILD_VCS_REF

@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   ninjamserver:
     image: uzer/ninjamserver:latest
